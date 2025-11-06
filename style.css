@@ -1,3 +1,19 @@
 .text_galim {
   color: brown;
 }
+
+.emin{
+  display: flex;
+  justify-content: center;
+}
+.text_emin{
+  text-align: center;
+  width: 300px;
+  font-weight: 700;
+  background-color: rgba(65, 62, 64, 0.234);
+  height: 80px;
+  border: 1px solid black;
+  font-size: 30px;
+  color: rgb(187, 82, 7);
+  cursor: pointer;
+}
