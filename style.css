@@ -1,3 +1,17 @@
 .text_galim {
   color: brown;
 }
+
+.content-box {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+}
+
+.content-box h1 {
+  color: aquamarine;
+}
+
+.content-box p {
+  color: chocolate;
+  font-size: 18px;
+}
